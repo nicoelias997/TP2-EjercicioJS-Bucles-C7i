@@ -18,3 +18,4 @@ if((nota <= 2) && (nota >= 0)){
 } else{
     alert("Introduce un numero valido")
 }
+
