@@ -23,3 +23,5 @@ for(let j = 0; j < columnas; j++){
     document.write("</tr>");    //cerramos la fila
 }
 document.write("</table>");     //cerramos la tabla
+
+//¿Por que no puedo rellenar primero las filas y luego cerrar la columnas? 
