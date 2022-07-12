@@ -22,3 +22,4 @@ for(let i = 1; i <= x; i++){
 } else {
     document.write("Numero incorrecto, elija un numero entre el 1-50")
 }
+
