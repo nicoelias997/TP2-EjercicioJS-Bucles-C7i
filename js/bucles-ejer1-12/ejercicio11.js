@@ -8,11 +8,11 @@ let nombre3 = prompt("Escriba su nombre");
 let edad3 = parseInt(prompt("Escriba su edad"));
 
 if(Math.max(edad1,edad2,edad3) == edad1){
-    document.write("El mayor es " + nombre1);
+    document.write("El/La mayor es " + nombre1 + "<br>");
 }
 if(Math.max(edad1,edad2,edad3) == edad2){
-    document.write("El mayor es " + nombre2);
+    document.write("El/La mayor es " + nombre2 + "<br>");
 }
 if(Math.max(edad1,edad2,edad3) == edad3){
-    document.write("El mayor es " + nombre3);
+    document.write("El/La mayor es " + nombre3 + "<br>");
 }
